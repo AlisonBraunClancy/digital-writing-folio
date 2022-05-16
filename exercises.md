@@ -19,5 +19,22 @@
 
 ## Week 2
 
- 
+### How is electronic literature different from print literature?
+
+### What are some of the qualities of electronic literature?
+
+## Taroko Gorge Remixes
+
+### What aspects of the remix are the same?
+
+### What aspects of the remix are different?
+
+### Is the remix successful (why or why not)?
     
+    
+## Week 4
+
+### We Walk to You Remix
+
+[They Come from Outer Space](https://impossible-enchanted-receipt.glitch.me)
+
