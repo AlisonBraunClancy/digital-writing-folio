@@ -6,7 +6,6 @@
 - [x] Do the GitHub 'Hello World'
 - [x] Add a repository for the folio
 - [x] Answer Questions
-- 
 
 ### Questions
 
@@ -19,17 +18,19 @@
 
 ## Week 2
 
-### How is electronic literature different from print literature?
+### Questions
 
-### What are some of the qualities of electronic literature?
+#### How is electronic literature different from print literature?
+
+#### What are some of the qualities of electronic literature?
 
 ## Taroko Gorge Remixes
 
-### What aspects of the remix are the same?
+#### What aspects of the remix are the same?
 
-### What aspects of the remix are different?
+#### What aspects of the remix are different?
 
-### Is the remix successful (why or why not)?
+#### Is the remix successful (why or why not)?
     
     
 ## Week 4
