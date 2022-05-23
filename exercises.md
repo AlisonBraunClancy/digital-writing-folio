@@ -24,7 +24,7 @@
 
 #### What are some of the qualities of electronic literature?
 
-## Glitch Remixes
+### Glitch Remixes
 
 #### To Make a Dadaist Poem
 
@@ -32,13 +32,13 @@
 #### N+7
 
 
-## Constraints and Processes 
+### Constraints and Processes 
 
 #### Create a constraint (a restriction on your writing such as not using the letter "e" or a set number of syllables)
 #### Create a process (a process for creating writing such as picking the third word of each page of a book)
 
 
-## Taroko Gorge Remixes
+### Taroko Gorge Remixes
 
 #### What aspects of the remix are the same?
 
@@ -56,24 +56,24 @@
 
 ## Week 5
 
-#### Create a website 
+### Create a website 
 https://alisonbraunclancy.github.io/
 
-#### Create a Twine Story
+### Create a Twine Story
 https://github.com/AlisonBraunClancy/digital-writing-twine
 
 ## Week 6
 
-#### Inform 7
+### Inform 7
 https://github.com/AlisonBraunClancy/inform-7-thing
 
 ## Week 9
 
-#### Audio Example with Howler.js
+### Audio Example with Howler.js
 
 
 ## Week 10
-#### Remix a Simple Animation Keyframe Example
+### Remix a Simple Animation Keyframe Example
 
-#### Remix a Background Image CSS Animation
+### Remix a Background Image CSS Animation
 
