@@ -2,11 +2,6 @@
 
 ## Week 1
 
-- [x] Create a GitHub account
-- [x] Do the GitHub 'Hello World'
-- [x] Add a repository for the folio
-- [x] Answer Questions
-
 ### Questions
 
 #### What types of writing do you do (ie fiction, nonfiction, poetry, other)?
