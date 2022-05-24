@@ -39,14 +39,14 @@ https://github.com/AlisonBraunClancy/n7-glitch-remix
 
 ### Taroko Gorge Remixes
 
+https://nickm.com/taroko_gorge/along_the_briny_beach/
+
 #### What aspects of the remix are the same?
-
-
+The style - a webpage with steadily increasing words in a poem, as well as the fact that they are both poems about nature
 #### What aspects of the remix are different?
-
+The colour and style of the webpage, the actual words of the poem
 #### Is the remix successful (why or why not)?
-
-
+Yes, in that it clearly takes aspects of Taroko Gorge, but is also its own piece.
     
     
 ## Week 4
@@ -74,6 +74,8 @@ https://github.com/AlisonBraunClancy/audio-example-with-howler
 
 ## Week 10
 ### Remix a Simple Animation Keyframe Example
+https://github.com/AlisonBraunClancy/simple-animation-keyframe-example
 
 ### Remix a Background Image CSS Animation
+https://github.com/AlisonBraunClancy/css-animation
 
